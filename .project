@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>hibernateManyToManyBI</name>
+=======
+	<name>hibernateManyTOMany</name>
+>>>>>>> 16463a71c87d91aaf572b68c4f1b35f0a10dd9d5
 	<comment></comment>
 	<projects>
 	</projects>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
  <persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"
+=======
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"
+>>>>>>> 16463a71c87d91aaf572b68c4f1b35f0a10dd9d5
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence
           http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd"
@@ -10,7 +14,11 @@
         <property name="javax.persistence.jdbc.driver"
 				value="com.mysql.cj.jdbc.Driver" />
 			<property name="javax.persistence.jdbc.url"
+<<<<<<< HEAD
 				value="jdbc:mysql://localhost:3306/task2?createDatabaseIfNotExist=true" />
+=======
+				value="jdbc:mysql://localhost:3306/task?createDatabaseIfNotExist=true" />
+>>>>>>> 16463a71c87d91aaf572b68c4f1b35f0a10dd9d5
 			<property name="javax.persistence.jdbc.user" value="root" />
 			<property name="javax.persistence.jdbc.password"
 				value="root" />

@@ -5,17 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.jspirds</groupId>
-<<<<<<< HEAD
-  <artifactId>hibernateManyToManyBI</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-
-  <name>hibernateManyToManyBI</name>
-=======
   <artifactId>hibernateManyTOMany</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
   <name>hibernateManyTOMany</name>
->>>>>>> 16463a71c87d91aaf572b68c4f1b35f0a10dd9d5
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
